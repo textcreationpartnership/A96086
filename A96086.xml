@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more exact relation of the late battell neer York; fought by the English and Scotch forces, against Prince Rupert and the Marquess of Newcastle. Wherein the passages thereof are more particularly set down, presented to the view of those who desire better satisfaction therin. Published for the more inlargement of our hearts to Almighty God on our day of Thanksgiving, commanded by authority for the great victory obtained. Allowed to be printed according to order.</title>
+            <author>Watson, Lion.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96086</idno>
+            <idno type="STC">Wing W1082</idno>
+            <idno type="STC">Thomason E2_14</idno>
+            <idno type="STC">ESTC R289</idno>
+            <idno type="EEBO-CITATION">99872216</idno>
+            <idno type="PROQUEST">99872216</idno>
+            <idno type="VID">154655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154655)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more exact relation of the late battell neer York; fought by the English and Scotch forces, against Prince Rupert and the Marquess of Newcastle. Wherein the passages thereof are more particularly set down, presented to the view of those who desire better satisfaction therin. Published for the more inlargement of our hearts to Almighty God on our day of Thanksgiving, commanded by authority for the great victory obtained. Allowed to be printed according to order.</title>
+                  <author>Watson, Lion.</author>
+                  <author>Grifen, Robert.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons for H. Overton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The battle "neer York" was at Marston-Moor.</note>
+                  <note>The first letter signed: L.W.</note>
+                  <note>"The contents of another letter .." (p. 8) signed: Robert Grifen.</note>
+                  <note>Attributed to Lion Watson. cf. BM.</note>
+                  <note>reproduction of the original in the British Library.</note>
+                  <note>Thomason annotation:"July 14th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Marston Moor, Battle of, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154655:1" rendition="simple:additions"/>
+            <p>A more Exact RELATION Of the late BATTELL Neer <hi>YORK;</hi> Fought by the <hi>Engliſh</hi> and <hi>Scotch</hi> Forces, againſt Prince RUPERT and the Marqueſs of <hi>Newcaſtle.</hi>
+            </p>
+            <p>Wherein the Paſſages thereof are more particularly ſet down, preſented to the view of thoſe who deſire better ſatisfaction therein.</p>
+            <p>Publiſhed for the more inlargement of our hearts to Almighty God on our day of Thankſgiving, comman<g ref="char:EOLhyphen"/>ded by Authority for the great Victory obtained.</p>
+            <p>Allowed to be Printed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. Simmons</hi> for <hi>H. Overton,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154655:2"/>
+            <pb n="3" facs="tcp:154655:2"/>
+            <head>A more exact Relation of the late BATTAILE neere <hi>Yorke,</hi> fought by the <hi>Engliſh</hi> and <hi>Scottiſh</hi> Forces, againſt Prince <hi>Rupert,</hi> and the Earle of <hi>New-Caſtle.</hi>
+            </head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>e pleaſed to take notice of Gods wonderfull and almoſt miraculous goodneſs to us, and in us to this whole Na<g ref="char:EOLhyphen"/>tion, and to all the Churches of God in Europe, upon Monday laſt being the ſecond of <hi>July,</hi> upon notice that Prince <hi>Rupert</hi> was advancing on the North-ſide <hi>Owſe,</hi> with twentie-five thouſand men, to raiſe our Siege before <hi>Yorke,</hi> wee conceiving our ſelves unable to keepe the Siege, and fight with him alſo, and ſuppoſing it the ſafeſt to fight with him with our whole ſtrength united, we drew off all our For<g ref="char:EOLhyphen"/>ces, both horſe and foot and artillery, without the loſſe of a man, and put our ſelves into Battalia upon <hi>Owſe-moore,</hi> within three miles of <hi>Yorke.</hi> That night the Prince came into <hi>Yorke,</hi> with about two thouſand horſe, his foote and Ordinance quartering in the Forreſt of <hi>Gortrey,</hi> within five miles of <hi>Yorke;</hi> Wee quartered at <hi>Long Mar<g ref="char:EOLhyphen"/>ſton,</hi> and in the Townes adjacent, with an intention the next day to march to <hi>Cawood,</hi> and ſo to <hi>Selby,</hi> partly to poſſeſſe the River in<g ref="char:EOLhyphen"/>tirely, ſo to hinder him for furniſhing <hi>Yorke</hi> with proviſions, out of the Eaſt-Riding; As alſo to interpoſe between him and his march Southwards, he having no other way to march, (the Earle of <hi>Den<g ref="char:EOLhyphen"/>bigh</hi> and the <hi>Lancaſhire</hi> Forces interpoſing between him and his march Weſt-wards, the way he came:) Accordingly early in the morn<g ref="char:EOLhyphen"/>ing, wee began our march towards <hi>Cawood,</hi> with all our Armie, leaving three thouſand Horſe and Dragooneers to bring up the Reare of our Foote and Ordnance.</p>
+            <p>The Enemy thinking wee diſlodged, becauſe wee would avoyd
+<pb n="4" facs="tcp:154655:3"/>
+fighting, and being reſolved to fight with us, they drew out five thouſand Horſe and Dragooneers, the Vanne of their Armie, and with them tooke the Moore neare <hi>Marſton,</hi> about nine of the clocke on Tueſday, and came up cloſe to the Reare of our Carriages.</p>
+            <p>Wee ſeeing that they were in earneſt to fight, and wee as much as they deſiring it, preſently commanded all our foote and Ord<g ref="char:EOLhyphen"/>nance to come back with all ſpeed, the Vanne of which was gone ſome five miles towards <hi>Cawood,</hi> and was with much difficultie to be brought backe. The enemy in the meane while, drawing up with part of their foote cloſe to our noſes, ſo neare that we had not li<g ref="char:EOLhyphen"/>bertie to take the Moore, and to put our ſelves into Battalia, ſo that wee were put to draw our men into a Corne-field cloſe to the Moore, making way by our Pioners to get ground to extend the wings of our army to ſuch a diſtance, that wee might conveniently fight; which was very difficult for us to attain, The right wing of our army being placed juſt by <hi>Merſton</hi> Town ſide, the town on our right hand, fronting on the Eaſt, and as our foot and horſe came up, we formed our battalia and the left wing, ſtill deſiring to gain as much of the left point as we could, ſo that at laſt wee came with the utmoſt point of our left wing, to <hi>Topwith;</hi> ſo oru army fronted to the Moore from <hi>Marſton</hi> to <hi>Topwith,</hi> being a mile and a half in length; the ene<g ref="char:EOLhyphen"/>my being drawn up juſt under us, the wings of their army extending a little further then ours in length, but the hedges and our Dragooners ſecured the flanks. About two of the clock we had indifferently well formed our army, as alſo tht enemy theirs, part of their foot being beyond <hi>Owſe,</hi> that morning, which made them as late as wee in drawing up. About two of the clock, the great Ordnance of both ſides began to play, but with ſmall ſucceſs to either: about five of the clock wee had a generall ſilence on both ſides, each expecting who ſhould begin the charge, there being a ſmall dich and a banck be<g ref="char:EOLhyphen"/>twixt us and the Moor, through which wee muſt paſs, if wee would charge them upon the Moore, or they paſs it, if they would charge us in the great corn-field, and cloſes; ſo that it was a great diſadvantage to him that would begin the charge, ſeeing the ditch muſt ſomewhat diſturb their order, and the other would be ready in good ground and order, to charge them before they could recover it.</p>
+            <p>In this poſture we ſtood till ſeven of the clock, ſo that it was con<g ref="char:EOLhyphen"/>cluded on our ſides, that there would be no ingagement that night, neither of the two Armies agreeing to begin the charge: And
+<pb n="5" facs="tcp:154655:3"/>
+ſurely had two ſuch Armies (drawn up ſo cloſe one to the other, be<g ref="char:EOLhyphen"/>ing of both wings within Musket ſhot, departed without fighting, I think it would have been as great a wonder as hath been ſeen in England. The enemy had in the Field in all, ſome fourteen thou<g ref="char:EOLhyphen"/>ſand Foot, and nine thouſand Horſe, and ſome twenty five pee<g ref="char:EOLhyphen"/>ces of Ordnance. The right Wing of their Horſe was commanded by Prince <hi>Rupert,</hi> who had in it ſome twelve diviſions of Horſe, conſiſting of one hundred Troops, and might be five thouſand men. The left Wing of their Horſe was commanded by <hi>Hurry,</hi> with all the remainder of their Horſe. The right Wing of our Horſe was commanded by Sir <hi>Thomas Fairfax,</hi> conſiſting of 80. Troops, be<g ref="char:EOLhyphen"/>ing his owne and the Scotch Horſe. The left Wing of our Horſe was commanded by Lieutenant Generall <hi>Cromwell,</hi> with all his own Horſe, and the Earle of Mancheſters, and ſome of the Scotch Horſe, being in all about 70. Troops. Our Foot being twenty eight Regiments, were diſpoſed into twelve Brigades. About half an houre after ſeven a clock at night, we ſeeing the enemy would not charge us, we reſolved by the help of God, to charge them, and ſo the ſigne being given, we marched down to the charge. In which you might have ſeen the braveſt fight in the world; Two ſuch diſciplin'd Armies marching to a charge. Wee came downe the Hill in the braveſt order, and with the greateſt reſolution that was ever ſeen: (I meane the left Wing of our Horſe led by <hi>Cromwell,</hi> which was to charge their right Wing, led by <hi>Rupert,</hi> in which was all their gallant men: they being reſolved, if they could ſcatter <hi>Cromwell,</hi> all were their own.</p>
+            <p>All the Earle of Mancheſters Foot being three Brigades, began the charge with their bodies againſt the Marques of Newcaſtle, and Prince <hi>Ruperts</hi> braveſt Foot. In a moment we were paſſed the ditch into the Moore, upon equall grounds with the enemy, our men going in a running march. Our front diviſions of Horſe charged their front, Lieutenant Generall <hi>Cromwels</hi> diviſion of three hundred Horſe, in which himſelfe was in perſon, charged the firſt diviſion of Prince <hi>Ru<g ref="char:EOLhyphen"/>perts</hi> in which himſelfe was in perſon. The reſt of ours charged other diviſions of theirs, but with ſuch admirable valour, as it was to the a<g ref="char:EOLhyphen"/>ſtoniſhment of all the old Souldiers of the Army. <hi>Cromwels</hi> own divi<g ref="char:EOLhyphen"/>ſion had a hard pull of it: for they were charged by <hi>Ruperts</hi> braveſt men, both in Front and Flank: they ſtood at the ſwords point a pret<g ref="char:EOLhyphen"/>ty while, hacking one another: but at laſt (it ſo pleaſed God) he brake
+<pb n="6" facs="tcp:154655:4"/>
+through them, ſcattering them before him like a little duſt.</p>
+            <p>At the ſame inſtant the reſt of our horſe of that Wing, had wholly broken all Prince <hi>Ruperts</hi> horſe on their right Wing, and were in the claſs of them beyond their left Wing: our Foot on the right hand of us (being onely the Earle of Mancheſters Foot) went on by our ſide diſperſing the enemies Foot almoſt as faſt as they charged them, ſtill going by our ſide, cutting them down that we carried the whole Field before us, thinking the victory wholly ours, and nothing to be done but to kill and take priſoners: not knowing that the enemies left Wing, led by <hi>Hurry</hi> had done as much to our right (led by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> they wholly carrying the Field before them, utterly routing all our Horſe and Foot, ſo that there was not a man left ſtan<g ref="char:EOLhyphen"/>ding before them, moſt of the Horſe and Foot of that wing, and our main battell recreating in haſt towards Todcaſter and Cawood, think<g ref="char:EOLhyphen"/>ing the day loſt, as the enemies right wing did towards York. The e<g ref="char:EOLhyphen"/>nemy being in purſuit and chaſe of retreating men, followed them to our Carriages, but had ſlain few of them: for indeed they ran away before the enemy charged them. Iuſt then came our Horſe and Foot from the chaſe of their right wing, and ſeeing the buſineſſe not well in our right, came in a very good order to a ſecond charge with all the enemies Horſe and Foot that had diſordered our right wing and main battell. And here came the buſineſſe of the day (nay almoſt of the Kingdome) to be diſputed upon this ſecond charge.</p>
+            <p>The enemy ſeeing us to come in ſuch a gallant poſture to charge them, left all thoughts of purſuit, and began to thinke that they muſt fight again for that victory which they thought had been already got. They marching down the Hill upon us, from our Carriages, ſo that they fought upon the ſame ground, and with the ſame Front that our right wing had before ſtood to receive their charge; and wee ſtood in the ſame ground, and with the ſame Front which they had when they began the charge.</p>
+            <p>Our three Brigades of Foot of the Earle of Mancheſters being on our right hand. On we went with great reſolution, charging them ſo home, one while their Horſe, and then again their Foot, and our Foot and Horſe ſeconding each other with ſuch valour, made them flie be<g ref="char:EOLhyphen"/>fore us, that it was hard to ſay which did the better our Horſe or Foot. Major Generall <hi>Leſley</hi> ſeeing us thus pluck a victory out of the enemies hands, profeſſed Europe had no better Souldiers.</p>
+            <p>To conclude about nine of the clock we had cleared the Field of
+<pb n="7" facs="tcp:154655:4"/>
+of all enemies, recovered out Ordnance and Carriages, tooke all the enemies Ordnance and Ammunition, and followed the chaſe of them within a mile of Yorke, cutting them downe ſo that their dead bodies lay three miles in length. Divers priſoners of note were taken, Lord <hi>Gorings</hi> ſon, Colonel <hi>Tilſley,</hi> Sir <hi>Charles Lucas,</hi> Major Generall <hi>Porter,</hi> and about an hundred more Officers, 1500 Souldiers. The number of the dead is uncertaine; but I cannot think, but of all dead in the field, in the woods, and mortally wounded (which would die within a day) there are between three and foure thouſand Their whole Army is ſo broken, that of Foot I am confident they are not able of 13000. to rally 2000. and of eight or nine thouſand Horſe, not above two thou<g ref="char:EOLhyphen"/>ſand, the reſt all gone to their own homes, except thoſe that are ſlain and priſoners. The glory of this, as it onely due to God, as the prime efficient, ſo muſt it be acknowledged (as it is by all, and that moſt juſt<g ref="char:EOLhyphen"/>ly) thit inſtrumentally it was done by none but by the Earle of Mancheſters Horſe and Foot led on by <hi>Cromwel,</hi> and thoſe Scots which charged in with them, commanded by Major Generall <hi>Leſley,</hi> who carried himſelfe very bravely. Lieutenant Generall <hi>Cromwell</hi> (the great agent in this victory) hath received a ſlight wound in the neck. We loſt not in all this fight, above two or three hundred men. Sir <hi>Thomas Fairfax</hi> (wounded in the head or face) caried himſelf as brave<g ref="char:EOLhyphen"/>ly as as man could doe, was unhorſt, lay upon the ground, and was relieved by our horſe. The enemy hath loſt all their Arms, the field be<g ref="char:EOLhyphen"/>ing full of Pikes and Muskets; This morning we gathered them up within 2 miles of <hi>Yorke,</hi> not an enemy daring to look upon us. <hi>Rupert</hi> is on the North ſide or <hi>Yorke</hi> with about two thouſand Horſe. I am</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Servant</hi> Lion Watſon</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:154655:5"/>
+            <pb n="8" facs="tcp:154655:5"/>
+            <head>The Contents of another Letter ſent from one in the Earle of <hi>Mancheſters</hi> Army to a friend in <hi>London.</hi>
+            </head>
+            <p>I Thought good hereby to acquaint you w<hi rend="sup">th</hi> that glorious victory which the Lord hath given us over the enemies of Jesus Christ mightily he hath been ſeen in de<g ref="char:EOLhyphen"/>livering us, and confounding his adverſaries. On <hi>Munday, July</hi> 1. our ſiege being raiſed from <hi>York,</hi> and we quarter<g ref="char:EOLhyphen"/>ing that night in <hi>Long Merſton</hi> Moor, it was reported the next morning, that Prince <hi>Rupert</hi> had his rendezvous in <hi>Brammamoor,</hi> whereupon we marched thitherward; when we were advanc'd about half a mile, wee deſcryed Prince <hi>Ruperts</hi> horse marching after us, in <hi>Long Merston</hi> Moore, whom we fac'd at that diſtance, they drew up in battalia on the Moor, we returned, and did the like in the fields. About one or two of the clock the Cannon began, and plaid till four or five in the afternoon. Afterwards we all marched down to them, both horſe and foot; they charged us very fiercely and violently, but by the bleſſing of God, we routed their horſe on the right wing, and one Regiment or body of their foot; but the field went very dangerous in our right wing, for there they were routed, and many ran: So likewiſe in our main Body, but it pleaſed God to uphold the ſpirits of our army, and our foot charged ſo violenty, that they forced the enemy to run, and our horſe purſued them, and routed them totally out of the field.</p>
+            <p>There were killed about 4000. neer 2000. taken; all their foot colours, and many of their horſe colours were taken, 25. peeces of Ordance, 8000. arms, and all their waggons and ammunition. Thus the Lord did wondrouſly for us, bleſſed be his holy Name.</p>
+            <p>My Couſin <hi>Thomas D.</hi> is very well, but eſcaped nar<g ref="char:EOLhyphen"/>rowly, being diſmounted by the enemy.</p>
+            <closer>
+               <signed>Your ever loving Brother, <hi>Robert Grifen.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
